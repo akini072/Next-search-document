@@ -1,0 +1,121 @@
+[ 
+  { 
+    "id": 2, 
+    "part_type": "1", 
+    "part_name": "kkk", 
+    "icad_file_path": "", 
+    "icad_file_path_display": "", 
+    "urdf_file_path": "", 
+    "maker": "KHI", 
+    "model_no": "0120-444", 
+    "standard_delivery_period": "", 
+    "cost": 5000, 
+    "combination_factor": "", 
+    "memo": "", 
+    "thumbnail_image_path": "SupportParts/Thumbnail/arrow-up_2023112715231901.png", 
+    "thumbnail_base_image_path": "SupportParts/ThumbnailBase/arrow-up_2023112715231904.png", 
+    "part_name_display": "KHI001", 
+    "part_description_display": "説明：XXXXXXX XXXX XXXXXX", 
+    "cost_display": "費用：5000千円", 
+    "part_type_custom_values": { 
+      "body_weight": 1500, 
+      "required_voltage": "2", 
+      "max_carrable_weight": 2000, 
+      "max_reachable_range": 2000 
+   
+        }, 
+    "part_type_search_values": { 
+      "range": 2000, 
+      "weight": 1500, 
+      "velocity": 100, 
+      "has_style_change": "1" 
+   
+        }, 
+    "created_on": "2023-11-27T15:23:19.096", 
+    "create_app_version": "DEV_v.0.5.0", 
+    "modified_on": "2023-11-27T15:23:19.096", 
+    "modify_app_version": "DEV_v.0.5.0", 
+    "status": null 
+ 
+    }, 
+  { 
+    "id": 3, 
+    "part_type": "1", 
+    "part_name": "Y001", 
+    "icad_file_path": "", 
+    "icad_file_path_display": "", 
+    "urdf_file_path": "", 
+    "maker": "YASKAWA", 
+    "model_no": "YAS0001", 
+    "standard_delivery_period": "", 
+    "cost": 50000, 
+    "combination_factor": "", 
+    "memo": "", 
+    "thumbnail_image_path": "SupportParts/Thumbnail/直動ユニット_2023112715564214.JPG", 
+    "thumbnail_base_image_path": "SupportParts/ThumbnailBase/直動ユニット_2023112715564214.JPG", 
+    "part_name_display": "YAS1", 
+    "part_description_display": "説明：XXXXXXX XXXX XXXXXX", 
+    "cost_display": "費用：50000千円", 
+    "part_type_custom_values": { 
+      "body_weight": 2000, 
+      "required_voltage": "2" 
+   
+        }, 
+    "part_type_search_values": { 
+      "range": 5000, 
+      "weight": 2000, 
+      "velocity": 100, 
+      "shape_type": "1", 
+      "has_style_change": "2" 
+   
+        }, 
+    "created_on": "2023-11-27T15:56:42.187", 
+    "create_app_version": "DEV_v.0.5.0", 
+    "modified_on": "2023-11-27T15:56:42.187", 
+    "modify_app_version": "DEV_v.0.5.0", 
+    "status": null 
+ 
+    }, 
+  { 
+    "id": 4, 
+    "part_type": "1", 
+    "part_name": "part_A", 
+    "icad_file_path": "", 
+    "icad_file_path_display": "", 
+    "urdf_file_path": "", 
+    "maker": "MakerA", 
+    "model_no": "MODEL_A1", 
+    "standard_delivery_period": "", 
+    "cost": 3000, 
+    "combination_factor": "", 
+    "memo": "", 
+    "thumbnail_image_path": "SupportParts/Thumbnail/image_1.png", 
+    "thumbnail_base_image_path": "SupportParts/ThumbnailBase/image_base_1.png", 
+    "part_name_display": "Part A", 
+    "part_description_display": "説明：Part A Description", 
+    "cost_display": "費用：3000千円", 
+    "part_type_custom_values": { 
+      "body_weight": 1200, 
+      "required_voltage": "1.5", 
+      "max_carrable_weight": 1800, 
+      "max_reachable_range": 1500 
+   
+        }, 
+    "part_type_search_values": { 
+      "range": 1500, 
+      "weight": 1200, 
+      "velocity": 80, 
+      "has_style_change": "0" 
+   
+        }, 
+    "created_on": "2023-11-27T15:23:19.096", 
+    "create_app_version": "DEV_v.0.5.0", 
+    "modified_on": "2023-11-27T15:23:19.096", 
+    "modify_app_version": "DEV_v.0.5.0", 
+    "status": null 
+ 
+    }
+ 
+] 
+ 
+ 
